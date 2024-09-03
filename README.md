@@ -5,7 +5,6 @@
 </p>
 
 Python-based application designed for downloading videos, audios, and playlists from YouTube.
-Features
 
    
 ## Features
